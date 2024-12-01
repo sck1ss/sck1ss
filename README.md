@@ -1,16 +1,20 @@
-## Hi there 👋
+## sck1ss ❄️
+Stuff about me
+## projects 📚
+Projects I contributed in.
+- [`tf/archie`](github.com/tuxforge/archie) helped in publishing
+- [`kc/archium`](github.com/keirancc/archium) fork of archie with a better codebase :p
 
-<!--
-**sck1ss/sck1ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming languages I know 💻
+- [x] C 
+- [x] Haskell
+- [x] Bash
+- [x] BF 
+- [x] Lua
+- [x] Python
+## Contact ☎️
+You can contact me on these platforms
 
-Here are some ideas to get you started:
+`Discord` - `scklss`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Matrix` - `penguinatlinux@matrix.org`
